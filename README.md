@@ -1,2 +1,2 @@
 # React-Native
-Sample Practice Projects on React Native
+Sample Employee Directory application on React Native

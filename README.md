@@ -1,5 +1,5 @@
-# React-Native
-Sample Employee Directory application on React Native
+# React-Native : Sample App
+Sample Employee Directory application on React Native using [react-native-router-flux](https://github.com/aksonov/react-native-router-flux#try-the-example-app)
 
 ![Sample1](screenshot/EmployeeDirectory.gif)
 
